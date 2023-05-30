@@ -3,16 +3,29 @@ layout: page
 title: Home
 ---
 
-Welcome to the project website!
+# Learning to taste: A multimodal wine dataset
 
-## Paper
+Thoranna Bender, Simon Møe Søresen, Alireza Kashani, Serge Belongie, Frederik Warburg
 
-A brief introduction to the paper can go here. [Read the full paper](/paper).
+University of Copenhagen, Technical University of Denmark, 
 
-## Code
+[Paper](link-to-paper)  
+[Code](link-to-code)  
+[Dataset](link-to-dataset) 
+[Read about us in Politiken!](link-to-politiken-article)
 
-Information about the code can go here. [See the code](/code).
+We present WineSensed, a large multimodal wine dataset for studying the relations between visual perception, language, and flavor. The dataset encompasses 897k images of wine labels and 824k reviews of wines curated from the Vivino platform. It has over 350k unique vintages, annotated with year, region, rating, alcohol percentage, price, and grape composition. We obtained fine-grained flavor annotations on a subset by conducting a wine-tasting experiment with 256 participants who were asked to rank wines based on their similarity in flavor, resulting in more than 5k pairwise flavor distances. We propose a low-dimensional concept embedding algorithm that combines human experience with automatic machine similarity kernels. We demonstrate that this shared concept embedding space improves upon separate embedding spaces for coarse flavor classification  (alcohol percentage, country, grape, price, rating) and alignment to human perception of flavor.
 
-## Dataset
+Check out this page for a few of our experiments, and read our paper for full details. Code and dataset are available. 
 
-Information about the dataset can go here. [See the dataset](/dataset).
+## Quick Jump:
+- [Overview](#overview)
+
+<div class="card">
+    <h3 id="overview">Overview</h3>
+    <div class="card-content">
+        Content goes here...
+    </div>
+</div>
+
+<!-- Repeat for other sections -->
